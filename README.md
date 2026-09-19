@@ -34,8 +34,6 @@ My work spans enterprise knowledge workflows, candidate retrieval and ranking, a
 
 ---
 
-### 中文概述
 
-关注 Agent 工程、检索排序与多模态交互，拥有数学背景及 AI 应用开发经验。重视权限边界、数据可追溯性、可复现评测与人工确认，注重系统的可靠性与正确性。
 
 <sub>Selected experience is described at a technical level; client identities, private datasets, and internal implementation details are omitted.</sub>
