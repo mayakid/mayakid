@@ -1,6 +1,6 @@
 <div align="center">
 
-# mayakid
+# Maya Kid
 
 ### Building AI systems that can be inspected, evaluated, and trusted.
 
